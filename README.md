@@ -1,6 +1,7 @@
-# TensorFlow-Practice
+# DataScience
 
 This is a collection of some of my data-science related projects I have been working on over the last few months
+Many of these use TensorFlow and Kereas models to make predictions. 
 
 ## Files
 
